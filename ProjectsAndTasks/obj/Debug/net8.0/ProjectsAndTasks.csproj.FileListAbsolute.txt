@@ -1,0 +1,343 @@
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\appsettings.json
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.staticwebassets.runtime.json
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.exe
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.deps.json
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.runtimeconfig.json
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.pdb
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Humanizer.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.AssemblyInfo.cs
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.RazorAssemblyInfo.cache
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.RazorAssemblyInfo.cs
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.ProjectsAndTasks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectsAndTasks.props
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectsAndTasks.props
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectsAndTasks.props
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\bundle\ProjectsAndTasks.styles.css
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\projectbundle\ProjectsAndTasks.bundle.scp.css
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\Projects.AAAF71DD.Up2Date
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\refint\ProjectsAndTasks.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.pdb
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.genruntimeconfig.cache
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ref\ProjectsAndTasks.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\appsettings.Development.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\appsettings.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.staticwebassets.runtime.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.exe
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.deps.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.runtimeconfig.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.pdb
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Humanizer.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\MySqlConnector.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.CodeDom.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.csproj.AssemblyReference.cache
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.AssemblyInfoInputs.cache
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.AssemblyInfo.cs
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.csproj.CoreCompileInputs.cache
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.MvcApplicationPartsAssemblyInfo.cache
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.RazorAssemblyInfo.cache
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.RazorAssemblyInfo.cs
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.build.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.development.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.ProjectsAndTasks.Microsoft.AspNetCore.StaticWebAssets.props
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectsAndTasks.props
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectsAndTasks.props
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectsAndTasks.props
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.pack.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\bundle\ProjectsAndTasks.styles.css
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\projectbundle\ProjectsAndTasks.bundle.scp.css
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\Projects.AAAF71DD.Up2Date
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\refint\ProjectsAndTasks.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.pdb
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.genruntimeconfig.cache
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ref\ProjectsAndTasks.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\A\Desktop\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.MvcApplicationPartsAssemblyInfo.cs
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\AutoMapper.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.MvcApplicationPartsAssemblyInfo.cs
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\FluentValidation.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.staticwebassets.endpoints.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.ProjectsAndTasks.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\БРУ\3 курс 1 семестр\ООП\ProjectsAndTasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\appsettings.Development.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\appsettings.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.staticwebassets.endpoints.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.staticwebassets.runtime.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.exe
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.deps.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.runtimeconfig.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ProjectsAndTasks.pdb
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\AutoMapper.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\FluentValidation.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Humanizer.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\MySqlConnector.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\System.CodeDom.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.csproj.AssemblyReference.cache
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.AssemblyInfoInputs.cache
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.AssemblyInfo.cs
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.csproj.CoreCompileInputs.cache
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.MvcApplicationPartsAssemblyInfo.cs
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.MvcApplicationPartsAssemblyInfo.cache
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.RazorAssemblyInfo.cache
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.RazorAssemblyInfo.cs
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.sourcelink.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\bundle\ProjectsAndTasks.styles.css
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\scopedcss\projectbundle\ProjectsAndTasks.bundle.scp.css
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.build.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.development.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.ProjectsAndTasks.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.ProjectsAndTasks.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectsAndTasks.props
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectsAndTasks.props
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectsAndTasks.props
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\Projects.AAAF71DD.Up2Date
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\refint\ProjectsAndTasks.dll
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.pdb
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ProjectsAndTasks.genruntimeconfig.cache
+F:\Артур\.NET apps\Projects-and-Tasks\ProjectsAndTasks\obj\Debug\net8.0\ref\ProjectsAndTasks.dll
